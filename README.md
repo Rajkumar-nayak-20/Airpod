@@ -6,7 +6,7 @@ A **modern, responsive, and animated product showcase** website for AirPods, bui
 
 ## 📸 Preview
 
-![AirPods Slider Demo](./screenshots/demo.gif) <!-- You can add your own screenshot or GIF -->
+![AirPods Slider Demo](./Screenshot.png) <!-- You can add your own screenshot or GIF -->
 
 ---
 
